@@ -133,7 +133,9 @@ a:active{
     margin-bottom: 15px;
 }
 
-.title:hover, h2, h3{
+.title, h2, h3{
+    display: inline-block;
+    margin-bottom: 5px;
     transition: transform 20ms ease-in;
 }
 
@@ -155,4 +157,8 @@ a:active{
 
 .modern-user-interface-title{
     color: #3efdff;
+}
+
+.small-img{
+    width: 15%;
 }
