@@ -118,6 +118,15 @@ a:active{
     list-style-type: none;
 }
 
+.title{
+    display: inline-block;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 33.5px;
+    margin-bottom: 15px;
+}
+
 .overview-title{
     display: block;
     color: white;
@@ -128,28 +137,13 @@ a:active{
 }
 
 .modern-interiors-title{
-    display: block;
     color: #fec025;
-    text-align: center;
-    font-size: 50px;
-    font-weight: bold;
-    margin: 33.5px;
 }
 
 .modern-exteriors-title{
-    display: block;
     color: #90ff88;
-    text-align: center;
-    font-size: 50px;
-    font-weight: bold;
-    margin: 33.5px;
 }
 
 .modern-user-interface-title{
-    display: block;
     color: #3efdff;
-    text-align: center;
-    font-size: 50px;
-    font-weight: bold;
-    margin: 33.5px;
 }
