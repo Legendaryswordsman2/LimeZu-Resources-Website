@@ -97,3 +97,7 @@ a:active{
 .inline-block{
     display: inline-block;
 }
+
+.themes-list{
+    list-style-type: none;
+}
