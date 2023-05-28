@@ -85,3 +85,9 @@ a:active{
     text-decoration: none;
     color: black;
 }
+
+.footer-link-list-element{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 40px;
+}
