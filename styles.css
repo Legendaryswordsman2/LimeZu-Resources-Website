@@ -163,3 +163,7 @@ a:active{
 .small-img{
     width: 15%;
 }
+
+.inline-block{
+    display: inline-block;
+}
